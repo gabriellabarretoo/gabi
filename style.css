@@ -1,3 +1,10 @@
 body{
      background-color: rgb(235, 171, 203);
 }
+
+P {
+     color:black;
+}
+.bailarina{
+     font-style:inherit
+}
