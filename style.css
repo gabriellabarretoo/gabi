@@ -1,8 +1,15 @@
 body{
      background-color: rgb(235, 171, 203);
-     text-align: end;
+     text-align: center;
+     margin: 0cqmax;
 }
 
+header{
+     border-bottom: 0cap;
+     padding: 0%;
+     font-size: medium;
+     text-decoration: solid;
+}
 P {
      color:black;
 }
