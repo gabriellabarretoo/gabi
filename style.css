@@ -3,6 +3,7 @@ body{
      text-align: center;
      margin: 2px;
      color: black;
+     font-family: "Chakra petch", sans-serif
 }
 
 header{
@@ -11,7 +12,6 @@ header{
      font-size: 20px;
      text-decoration: solid;
      margin: 20px;
-     font-family: "Chakra petch", sans-serif
 }
 P {
      color:black;
